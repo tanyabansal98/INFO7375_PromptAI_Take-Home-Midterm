@@ -1,0 +1,9 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS junk
+.DS_Store
+
+# Python (optional but good)
+__pycache__/
+*.pyc
